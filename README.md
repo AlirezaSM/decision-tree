@@ -1,2 +1,2 @@
-# decision-tree
+# Decision Tree
 Decision tree implementation from scratch
